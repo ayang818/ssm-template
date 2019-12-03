@@ -17,6 +17,9 @@
 
     <!--开启SpringMVC注解的支持-->
     <mvc:annotation-driven/>
+    <mvc:default-servlet-handler/>
+
+
     <bean id="templateResolver" class="org.thymeleaf.spring5.templateresolver.SpringResourceTemplateResolver">
         <property name="prefix" value="/WEB-INF/templates/"/>
         <property name="suffix" value=".html"/>
