@@ -1,8 +1,8 @@
-package com.example.ssmThymeleaf.service.impl;
+package com.ayang818.ssmtemplate.service.impl;
 
-import com.example.ssmThymeleaf.mapper.UserMapper;
-import com.example.ssmThymeleaf.model.User;
-import com.example.ssmThymeleaf.service.UserService;
+import com.ayang818.ssmtemplate.mapper.UserMapper;
+import com.ayang818.ssmtemplate.model.User;
+import com.ayang818.ssmtemplate.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

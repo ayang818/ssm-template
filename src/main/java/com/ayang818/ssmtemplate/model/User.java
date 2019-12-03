@@ -1,4 +1,4 @@
-package com.example.ssmThymeleaf.model;
+package com.ayang818.ssmtemplate.model;
 
 import java.io.Serializable;
 

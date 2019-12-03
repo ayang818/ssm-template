@@ -1,7 +1,7 @@
-package com.example.ssmThymeleaf.controller;
+package com.ayang818.ssmtemplate.controller;
 
-import com.example.ssmThymeleaf.model.User;
-import com.example.ssmThymeleaf.service.UserService;
+import com.ayang818.ssmtemplate.model.User;
+import com.ayang818.ssmtemplate.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

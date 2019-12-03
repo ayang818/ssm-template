@@ -1,7 +1,7 @@
-package com.example.test;
+package com.ayang818.test;
 
-import com.example.ssmThymeleaf.model.User;
-import com.example.ssmThymeleaf.service.UserService;
+import com.ayang818.ssmtemplate.model.User;
+import com.ayang818.ssmtemplate.service.UserService;
 import org.junit.Test;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

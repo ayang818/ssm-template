@@ -11,7 +11,7 @@
         http://www.springframework.org/schema/context/spring-context.xsd">
 
     <!--开启注解扫描，只扫描Controller注解-->
-    <context:component-scan base-package="com.example.ssmThymeleaf">
+    <context:component-scan base-package="com.ayang818.ssmtemplate">
         <context:include-filter type="annotation" expression="org.springframework.stereotype.Controller" />
     </context:component-scan>
 

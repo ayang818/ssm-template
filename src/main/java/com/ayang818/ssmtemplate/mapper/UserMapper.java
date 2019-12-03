@@ -1,6 +1,6 @@
-package com.example.ssmThymeleaf.mapper;
+package com.ayang818.ssmtemplate.mapper;
 
-import com.example.ssmThymeleaf.model.User;
+import com.ayang818.ssmtemplate.model.User;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
 

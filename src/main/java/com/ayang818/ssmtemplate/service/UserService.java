@@ -1,6 +1,6 @@
-package com.example.ssmThymeleaf.service;
+package com.ayang818.ssmtemplate.service;
 
-import com.example.ssmThymeleaf.model.User;
+import com.ayang818.ssmtemplate.model.User;
 
 import java.util.List;
 
