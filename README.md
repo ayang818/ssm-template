@@ -8,6 +8,7 @@ spring, spring mvc, mybatis template
 - [x] druid 数据库连接池
 - [x] flyway 数据库版本管理工具
 - [x] lombok bean扩展工具
+
 |dependency|configuration files|
 |---|---|
 |Spring 5.2.1 RELEASE|applicationContext.xml, spring-mvc.xml|
